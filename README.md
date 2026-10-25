@@ -103,6 +103,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [FertilityClinics](https://fertilityclinics.fyi) – Free read-only API over CDC surveillance data for US fertility and IVF clinics, including reported success rates.
 
 ## Monitoring, Testing & Security Tools
 

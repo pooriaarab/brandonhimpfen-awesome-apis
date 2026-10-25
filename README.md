@@ -103,6 +103,7 @@
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
+- [CreditUnions](https://creditunions.fyi) – Free read-only API over the NCUA register of federally insured US credit unions: charter, field of membership, assets and members by city.
 
 ## Monitoring, Testing & Security Tools
 
